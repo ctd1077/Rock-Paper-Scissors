@@ -14,7 +14,7 @@ Just me
 
 ## Authors
 
-* **Cambron Deatherage**
+* **Cam**
 
 ## Acknowledgments
 
