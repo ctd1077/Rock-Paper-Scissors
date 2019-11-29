@@ -1,6 +1,5 @@
 # My Rock, Paper, Scissor Project
 # for Udacity Into to Programming class
-# Written by: Cambron Deatherage
 # Rules:
 # Rock beats scissors
 # Scissors beats paper
